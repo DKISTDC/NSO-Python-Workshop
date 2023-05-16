@@ -1,0 +1,9 @@
+* Bugs found while writing the teaching materials for this workshop
+** astropy
+*** SpectralCoord does not print properly in jupyter-book (gh:astropy/astropy#14758)
+** SunPy
+*** WCS to frame mapping doesn't check DATE_AVG first (gh:sunpy/sunpy#6994)
+** User tools
+*** Message about limited results shown when slicing a response table (gh:DKISTDC/dkist#239)
+** parfive
+*** Signal only works in the main thread of the interpretor (gh:Cadair/parfive#131)
