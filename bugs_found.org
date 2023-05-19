@@ -5,5 +5,6 @@
 *** WCS to frame mapping doesn't check DATE_AVG first (gh:sunpy/sunpy#6994)
 ** User tools
 *** Message about limited results shown when slicing a response table (gh:DKISTDC/dkist#239)
+*** transfer_complete_datasets() doesn't interpolate paths (gh:DKISTDC/dkist#241)
 ** parfive
 *** Signal only works in the main thread of the interpretor (gh:Cadair/parfive#131)
