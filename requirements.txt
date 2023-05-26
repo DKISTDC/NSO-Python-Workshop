@@ -2,3 +2,4 @@ jupyter-book
 dkist
 ipywidgets
 sphinx-design
+distributed
